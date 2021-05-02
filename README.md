@@ -1,4 +1,13 @@
-### Hi there 👋
+# Opa  ✌
+
+Me chamo Marcelo Junio 👦	
+
+Desenvolvedor Front-end em formação, tenho 18 anos e estou iniciando nesse mundão dos dev's. 🌎
+Após um amigo me apresentar a área de programação, criei um interesse em aprender mais sobre esse mundo de programação, desde então venho 
+acompanhando páginas de devs, que me fez criar mais interesse e desde então comecei a estudar com desejo de ingressar nesse mundo.
+
+- 📍 Moro em Beagá - Belo Horizonte/MG
+- 👩‍💻 Estudando 
 
 <!--
 **MarceloJrS/MarceloJrS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
